@@ -1,0 +1,21 @@
+body{
+   margin:50px auto;
+   width: 400px;
+}
+.input-group{
+    display: flex;
+    flex-direction: row;
+}
+.question-group{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+    gap: 5px;
+}
+#percentage-row{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin-bottom: 10px;
+    gap:5px;
+}
